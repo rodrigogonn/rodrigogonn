@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Oosasukel/oosasukel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on **Angular 9**
+- 🌱 Currently learning **Machine Learning**
 
-Here are some ideas to get you started:
+## Some projects:
+| Console Game with C# |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/Jogo_Console/raw/master/presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Jogo_Console">here</a> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Bouncing Balls with JavaScript |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/Canvas_Bouncing_balls/raw/master/presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Canvas_Bouncing_balls">here</a> |
+| Available <a href="http://oosasukel.tk/">here</a> |

@@ -5,6 +5,12 @@
 
 ## Some projects:
 
+| Snake with JavaScript |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/Snake-Canvas2D/raw/master/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Snake-Canvas2D">here</a> |
+| Available <a href="https://oosasukel.github.io/Snake-Canvas2D/index.html">here</a> |
+
 | Bouncing Balls with JavaScript |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/Canvas_Bouncing_balls/raw/master/presentation.gif"> |

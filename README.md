@@ -5,6 +5,12 @@
 
 ## Some projects:
 
+| Infinite Runner with JavaScript |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/InfiniteRunner_Canvas2D/raw/master/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/InfiniteRunner_Canvas2D">here</a> |
+| Available <a href="https://oosasukel.github.io/InfiniteRunner_Canvas2D/">here</a> |
+
 | Snake with JavaScript |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/Snake-Canvas2D/raw/master/Presentation.gif"> |

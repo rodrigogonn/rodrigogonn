@@ -19,7 +19,7 @@
 
 | Real Time Chat with Node.js |
 | ----------- |
-| <img width="400" src="https://github.com/Oosasukel/Real-Time-Chat-Socket.io/raw/master/Presentation.gif"> |
+| <img width="400" src="https://github.com/Oosasukel/Real-Time-Chat-Socket.io/raw/master/PresentationGif.gif"> |
 | Repository <a href="https://github.com/Oosasukel/Real-Time-Chat-Socket.io">here</a> |
 
 | Movement and Animation with JavaScript and Canvas |

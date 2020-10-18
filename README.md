@@ -34,10 +34,11 @@
 | Repository <a href="https://github.com/Oosasukel/Canvas_Bouncing_balls">here</a> |
 | Available <a href="http://oosasukel.tk/">here</a> |
 
-| Proffy with React |
+| Happy with React |
 | ----------- |
-| <img width="400" src="https://github.com/Oosasukel/React-Proffy-NLW2/raw/master/presentation.gif"> |
-| Repository <a href="https://github.com/Oosasukel/React-Proffy-NLW2">here</a> |
+| <img width="400" src="https://github.com/Oosasukel/nlw3-happy-frontend/raw/master/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/nlw3-happy-frontend">here</a> |
+| Available <a href="https://nlw3happy.netlify.app/">here</a> |
 
 | Console Game with C# |
 | ----------- |

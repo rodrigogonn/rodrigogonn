@@ -5,6 +5,12 @@
 
 ## Some projects:
 
+| Among CSS |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/AmongUsCss/raw/master/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/AmongUsCss">here</a> |
+| Available <a href="https://oosasukel.github.io/AmongUsCss/index.html">here</a> |
+
 | Poke Tilt |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/PokemonTilt/raw/master/Presentation.gif"> |

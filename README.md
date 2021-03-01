@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working on **Angular 9**
-- 🌱 Currently learning **Machine Learning**
+- 🔭 Currently working on **React**
 
 ## Some projects:
 

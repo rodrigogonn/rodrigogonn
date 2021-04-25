@@ -4,6 +4,12 @@
 
 ## Some projects:
 
+| NLW5 - Podcastr |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/NLW5-podcastr/raw/main/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/NLW5-podcastr">here</a> |
+| Available <a href="https://nlw-5-podcastr-beryl.vercel.app/">here</a> |
+
 | NLW4 - MoveIt |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/nlw4-moveit/raw/main/Presentation.gif"> |

@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🔭 Currently working on **React**
+- 🔭 Currently working on **React** and **NodeJs**
+
+
+<a href="https://www.linkedin.com/in/rodrigogon" target="_blank"><img width="64px" src="https://user-images.githubusercontent.com/58633356/119045910-6ec99300-b992-11eb-9436-cff5382746c1.png" /></a>
+<a href="https://www.facebook.com/rodrigo.goncalvesdonascimento" target="_blank"><img width="64px" src="https://user-images.githubusercontent.com/58633356/119045873-62453a80-b992-11eb-87f9-25a58a760edd.png" /></a>
+
 
 ## Some projects:
 

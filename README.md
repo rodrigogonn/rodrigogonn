@@ -66,7 +66,7 @@
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/Canvas_Bouncing_balls/raw/master/presentation.gif"> |
 | Repository <a href="https://github.com/Oosasukel/Canvas_Bouncing_balls">here</a> |
-| Available <a href="http://oosasukel.tk/">here</a> |
+| Available <a href="https://oosasukel.github.io/Canvas_Bouncing_balls/">here</a> |
 
 | Happy with React |
 | ----------- |

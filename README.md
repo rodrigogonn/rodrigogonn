@@ -6,6 +6,10 @@
 <a href="https://www.linkedin.com/in/rodrigogon" target="_blank"><img width="48px" src="https://user-images.githubusercontent.com/58633356/119045910-6ec99300-b992-11eb-9436-cff5382746c1.png" /></a>
 <a href="https://www.facebook.com/rodrigo.goncalvesdonascimento" target="_blank"><img width="48px" src="https://user-images.githubusercontent.com/58633356/119045873-62453a80-b992-11eb-87f9-25a58a760edd.png" /></a>
 
+<div>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=Oosasukel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oosasukel&layout=compact&langs_count=16&theme=algolia"/>
+<div>
 
 ## Some projects:
 

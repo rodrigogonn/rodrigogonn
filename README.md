@@ -28,14 +28,14 @@
 | First Phaser Game |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/First-Phaser-Game/raw/master/Presentation.gif"> |
-| Repository <a href="https://github.com/Oosasukel/CSS_3D_Enviroment">here</a> |
-| Available <a href="https://oosasukel.github.io/CSS_3D_Enviroment/index.html">here</a> |
+| Repository <a href="https://github.com/Oosasukel/First-Phaser-Game">here</a> |
+| Available <a href="https://oosasukel.github.io/First-Phaser-Game">here</a> |
 
 | CSS 3D Enviroment |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/CSS_3D_Enviroment/raw/master/Presentation.gif"> |
-| Repository <a href="https://github.com/Oosasukel/First-Phaser-Game">here</a> |
-| Available <a href="https://oosasukel.github.io/First-Phaser-Game">here</a> |
+| Repository <a href="https://github.com/Oosasukel/CSS_3D_Enviroment">here</a> |
+| Available <a href="https://oosasukel.github.io/CSS_3D_Enviroment/index.html">here</a> |
 
 | Among CSS |
 | ----------- |

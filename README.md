@@ -13,6 +13,12 @@
 
 ## Some projects:
 
+| Cadastro de Usuários |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/Desafio-D1-Frontend/raw/master/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Desafio-D1-Frontend">here</a> |
+| Available <a href="https://desafio-d1.vercel.app/">here</a> |
+
 | NLW5 - Podcastr |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/NLW5-podcastr/raw/main/Presentation.gif"> |

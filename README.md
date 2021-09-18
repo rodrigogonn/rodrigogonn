@@ -13,7 +13,7 @@
 
 ## Some projects:
 
-| Cadastro de Usuários |
+| User Registration |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/Desafio-D1-Frontend/raw/master/Presentation.gif"> |
 | Repository <a href="https://github.com/Oosasukel/Desafio-D1-Frontend">here</a> |
@@ -30,6 +30,12 @@
 | <img width="400" src="https://github.com/Oosasukel/nlw4-moveit/raw/main/Presentation.gif"> |
 | Repository <a href="https://github.com/Oosasukel/nlw4-moveit">here</a> |
 | Available <a href="https://nlw4-moveit-dun.vercel.app/">here</a> |
+
+| CEP Search |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/Desafio-Eureka-Frontend/raw/master/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Desafio-Eureka-Frontend">here</a> |
+| Available <a href="https://desafio-eureka.vercel.app">here</a> |
 
 | First Phaser Game |
 | ----------- |

@@ -19,6 +19,12 @@
 | Repository <a href="https://github.com/Oosasukel/facaseucurriculo">here</a> |
 | Available <a href="https://facaseucurriculo.com/">here</a> |
 
+| Snake Multiplayer Online |
+| ----------- |
+| <img width="400" src="https://github.com/Oosasukel/Snake-Online-Frontend/raw/develop/Presentation.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Snake-Online-Frontend">here</a> |
+| Available <a href="https://snake-dev.soft-miner.com/">here</a> (DEV environment) |
+
 | Desafio Gamethon |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/Gamethon/raw/master/Presentation.gif"> |

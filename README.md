@@ -23,7 +23,7 @@
 | ----------- |
 | <img width="400" src="https://raw.githubusercontent.com/Oosasukel/Pokemon-Cards/master/Preview.gif"> |
 | Repository <a href="https://github.com/Oosasukel/Pokemon-Cards">here</a> |
-| Available <a href="https://pokemon-cards-bay.vercel.app/">here</a> (DEV environment) |
+| Available <a href="https://pokemon-cards-bay.vercel.app/">here</a> |
 
 | Snake Multiplayer Online |
 | ----------- |

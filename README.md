@@ -19,6 +19,12 @@
 | Repository <a href="https://github.com/Oosasukel/facaseucurriculo">here</a> |
 | Available <a href="https://facaseucurriculo-79fc3.web.app/">here</a> |
 
+| Pokemon Cards |
+| ----------- |
+| <img width="400" src="https://raw.githubusercontent.com/Oosasukel/Pokemon-Cards/master/Preview.gif"> |
+| Repository <a href="https://github.com/Oosasukel/Pokemon-Cards">here</a> |
+| Available <a href="https://pokemon-cards-bay.vercel.app/">here</a> (DEV environment) |
+
 | Snake Multiplayer Online |
 | ----------- |
 | <img width="400" src="https://github.com/Oosasukel/Snake-Online-Frontend/raw/develop/Presentation.gif"> |

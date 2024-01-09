@@ -15,7 +15,7 @@
 
 | Faça Seu Currículo |
 | ----------- |
-| <img width="400" src="https://camo.githubusercontent.com/ae588d2ab5074faf6959fe7ee6be20a457239f2d50ec99d10d7ecf71d5a2bbbe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f67574c6345666246484247374f374f6a642f67697068792e676966"> |
+| <img width="400" src="https://camo.githubusercontent.com/0581ea091752af3bfd387485510e17c5e051e616e85ff5be9cd7aaa9090061a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f67574c6345666246484247374f374f6a642f67697068792e676966"> |
 | Repository <a href="https://github.com/Oosasukel/facaseucurriculo">here</a> |
 | Available <a href="https://facaseucurriculo-79fc3.web.app/">here</a> |
 
